@@ -50,5 +50,4 @@ You can reach out to me through the following channels:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaTancredi&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndressaTancredi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
